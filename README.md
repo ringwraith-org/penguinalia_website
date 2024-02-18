@@ -1,2 +1,2 @@
-# penguinalia_webiste
+# penguinalia_website
 Penguinalia Website
